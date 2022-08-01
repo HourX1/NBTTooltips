@@ -1,6 +1,6 @@
 
 
-# Nbt Crafting 2.0    <img src="https://camo.githubusercontent.com/49b29197e2b4b615ec3fc9719a7898ef399be5df19ff35d0a430f417ed51fa4e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f4b6f70616d65642f526176656e2d62504c5553" alt="Youtube Badge"/>
+# Nbt Tooltips 2.0    <img src="https://camo.githubusercontent.com/49b29197e2b4b615ec3fc9719a7898ef399be5df19ff35d0a430f417ed51fa4e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f4b6f70616d65642f526176656e2d62504c5553" alt="Youtube Badge"/>
   </a>
 
 [![curseforge downloads](http://cf.way2muchnoise.eu/full_nbt-crafting_downloads.svg)](https://minecraft.curseforge.om/projects/nbt-crafting)
