@@ -41,13 +41,14 @@ A simple recipe allowing to craft wooden swords with 20 damage from diamond swor
     "item": "minecraft:wooden_sword",
     "data": {
       "Damage": 2
+       "nbt = 34678"
     }
   }
 }
 ```
 
 ## Extra
-Due to some additions made with this mod the recipe book displays also the output amount of all recipes - yay!
+Due to some additions made with this mod the nbt might some times not work - yay!
 
 ## License
 This mod is available under the Apache 2.0 License.
