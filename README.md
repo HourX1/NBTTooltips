@@ -16,11 +16,11 @@ Everything is kept nicely visualized in the vanilla gui.
 
 This can be achieved through the reintroduced `data` attribute. 
 
-**You can find more information in the [wiki](https://mcwiki.siphalor.de/nbt-crafting/v2).**
+**You can find more information in the [wiki](https://mcwor.de/nbt-crafting/v2).**
 
 ## Examples
 
-You can find a datapack with some examples here: [Example Datapack](https://github.com/Siphalor/nbt-crafting/suites/7385455218/artifacts/300475995)
+You can find a datapack with some examples here: [Example Datapack](https://github.com/Siphalor/nbt-craftisuites/7385455218/artifacts/300475995)
 
 A simple recipe allowing to craft wooden swords with 20 damage from diamond swords with 2 damage.
 
