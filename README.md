@@ -10,11 +10,11 @@
 ![logo](images/logo_2.0_big.png?raw=true)
 
 ## About
-A fabric mod which allows you to add/change JSON crafting/cooking/etc. recipes to use nbt input and output.
+A forge mod which allows you to see an items nbt.
 
 Everything is kept nicely visualized in the vanilla gui.
 
-This can be achieved through the reintroduced `data` attribute. 
+This can be achieved through the reintroduced /nbt attribute. 
 
 **You can find more information in the [wiki](https://mcwor.de/nbt-crafting/v2).**
 
@@ -22,7 +22,7 @@ This can be achieved through the reintroduced `data` attribute.
 
 You can find a datapack with some examples here: [Example Datapack](https://github.com/Siphalor/nbt-craftisuites/7385455218/artifacts/300475995)
 
-A simple recipe allowing to craft wooden swords with 20 damage from diamond swords with 2 damage.
+A sample of some of the nicely writen code in this mod.
 
 ```json
 {
