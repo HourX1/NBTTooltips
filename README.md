@@ -15,7 +15,7 @@ I am working on an AH Flipper that should be out soon!
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://camo.githubusercontent.com/4ce1189c39f0006eb2212760bfbdcee84ca534241abfc0b51c64a3229f5eaec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d432d312e382e392d627269676874677265656e2e737667" alt="Twitter Badge"/>
   </a>
 </div>
  
