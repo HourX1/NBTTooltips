@@ -9,7 +9,7 @@ I am working on an AH Flipper that should be out soon!
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://github.com/Kopamed/Raven-bPLUS/blob/main/LICENSE" alt="LinkedIn Badge"/>
+    <img src="https://camo.githubusercontent.com/c92be2bba9638397eac6ad9b426119f0577a31f7f482d32680c8bf5917613728/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f6b6f70616d65642f526176656e2d62504c55532e737667" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
